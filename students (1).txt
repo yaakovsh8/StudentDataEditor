@@ -1,0 +1,4 @@
+Yaakov, Shitrit, yaakov.shitrit@e.braude.ac.il, Introduction to cloud computing | Applied technical english | Data mining and learning systems | Computer networks | Chess, https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb,L
+Yarden, Barel, Yarden.Shalom.Barel@e.braude.ac.il, Advanced Internet Technologies | Introduction to cloud computing | Probability for software engineering | Automata theory, https://github.com/dsaadss?tab=repositories,
+Aviram, Fishman, aviram.fishman@e.braude.ac.il, Management accounting | Introduction to cloud computing | learning systems | Introduction to whispering and learning, https://www.linkedin.com/in/aviram-fishman/,
+Adar, Cohen, Adar.cohen@e.braude.ac.il, Cloud computing | Compilation | Web technologies | Introduction to AI | General course, https://github.com/AdarCohen1,
